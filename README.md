@@ -27,11 +27,18 @@ PostgreSQL: Banco de dados relacional para armazenamento das simulações e resu
 
 # Funcionalidades e Recursos
 Cálculos de Rentabilidade: O sistema permite ao usuário calcular o retorno de investimentos em Renda Fixa baseados na Selic.
+
 Monitoramento do Câmbio: Simulação de como a variação do câmbio pode impactar o retorno de investimentos internacionais.
+
 Inflação e Retorno Real: Integração com dados do IPCA para calcular a rentabilidade ajustada pela inflação.
+
 Relatórios e Gráficos: Projeções gráficas da rentabilidade ao longo do tempo, com base nas variáveis fornecidas.
-Diferenciais para Recrutadores
+
+# Diferenciais para Recrutadores
 Arquitetura Hexagonal: Facilita a separação de responsabilidades, tornando o sistema modular, testável e facilmente escalável.
+
 Integração Completa Frontend + Backend: Demonstra a habilidade de integração entre o Angular (frontend) e o Spring Boot (backend), com comunicação via API REST.
+
 Práticas de Clean Code e S.O.L.I.D: Utiliza as melhores práticas de desenvolvimento, garantindo que o código seja limpo, manutenível e fácil de entender.
+
 Uso de APIs Reais: Integração com a API do Banco Central para acessar dados econômicos reais, como a Selic, câmbio e IPCA.
