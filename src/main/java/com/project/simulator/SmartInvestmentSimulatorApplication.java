@@ -1,4 +1,4 @@
-package com.project.smart_investment_simulator;
+package com.project.simulator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
